@@ -1,0 +1,4 @@
+Description:
+Guest to Member linking data is stared in HIVE data warehouse in the PayPal Analytics Zone. The linking is based on Full Name and considers other criteria such as Email, Address, Phone Number, etc.
+Link:
+<https://engineering.paypalcorp.com/confluence/pages/viewpage.action?spaceKey=AuthRate&amp;title=Linking+Member+to+Guest>
